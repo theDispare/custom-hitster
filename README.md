@@ -5,12 +5,14 @@ but I was not fully satisfied with their music selection, so I wanted to create 
 
 This code creates a pdf file, ready to print with alternating spotify codes on one page and the corresponding songs on the second one.
 
-Ready to be printed in an A4 sheet. To scan the songs you need the spotify app, to recognize the spotify codes.
+Ready to be printed in an A4 sheet (could be ajusted to any format with the page_width and page_height in pixels variable). To scan the songs you need the spotify app, to recognize the spotify codes.
 
 Here is an example of some spotify codes:
+
 ![Alt text](images/front.png?raw=true "Front")
 
 Here is an example of the back of some cards:
+
 ![Alt text](images/back.png?raw=true "Back")
 
 I put a lot of efford in the making of the playlist: https://open.spotify.com/playlist/6AeFzelGKQQWNDP9ONzOa7
